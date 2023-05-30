@@ -1,0 +1,18 @@
+#body {
+  background-color: aqua;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 156px;
+  font-size: 40px;
+}
+
+#time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 48px;
+}
