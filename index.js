@@ -50,8 +50,6 @@ const createEl = document.createElement("h1");
 const timeDisplay =
   "Current time is : " + hour + " " + prepand + " " + minute + ":" + second;
 
-// document.getElementById("body").appendChild(createEl).textContent = todayIs;
-
 console.log(timeDisplay);
 
 document.getElementById("time").textContent = timeDisplay;
