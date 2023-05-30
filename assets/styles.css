@@ -1,5 +1,7 @@
 #body {
-  background-color: aqua;
+  background-image: url(./images/pexels-jeffrey-paa-kwesi-opare-2813515.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
