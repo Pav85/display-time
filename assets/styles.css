@@ -2,6 +2,8 @@
   background-image: url(./images/pexels-jeffrey-paa-kwesi-opare-2813515.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
 }
 
 h1 {
@@ -10,6 +12,8 @@ h1 {
   align-items: center;
   margin-top: 156px;
   font-size: 40px;
+  /* color: white; */
+  font-weight: 200;
 }
 
 #time {
